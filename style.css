@@ -1,0 +1,37 @@
+ul{
+    display: inline-block;
+}
+#navigation{
+    display: flex;
+    justify-content: space-between;
+    background-color: #4c4c4c;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin-right:  50px;
+    color:white;
+}
+img{
+    height: 50px;
+}
+#main{
+    background-image: url("images/floral.png");
+    background-color: #f18d97;
+    text-align: center;
+}
+hr{
+    margin-left:30%;
+    margin-right: 30%;
+}
+.register{
+padding: 1em 3em;
+color:#f18d97;
+background-color: #160d0e;
+margin-bottom: 10px;
+}
+#services{
+    background-image: url("images/floral.png");
+    display: inline-block;
+    text-align: center;
+}
